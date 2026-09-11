@@ -1,0 +1,21 @@
+{
+  "name": "smart-waste-routing-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.8",
+    "@vitejs/plugin-react": "latest",
+    "leaflet": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-leaflet": "latest",
+    "vite": "latest"
+  }
+}
